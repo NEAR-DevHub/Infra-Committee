@@ -32,7 +32,8 @@ body:
     attributes:
       label: Tags
       description: Add tags that match the topic of the work
-      multiple: true
+
+0
       options:
         - API
         - Blockchain

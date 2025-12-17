@@ -9,4 +9,4 @@
 
 ---
 
-> Engaging community projects to help improve the NEAR ecosystem infrastructure. [(More information)](https://github.com/near/Infrastructure-Working-Group/wiki)
+> Engaging community projects to help improve the NEAR ecosystem infrastructure. [(More information)](https://nearn.io/infra-committee/)
